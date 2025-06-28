@@ -154,7 +154,7 @@ export default function DarkPortfolio() {
       <header className="fixed top-0 w-full bg-[#121212]/90 backdrop-blur-md z-50 border-b border-gray-800">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="text-2xl font-bold">
-            <span className="text-white">Manjunath </span>
+            <span className="text-white">Manju </span>
             <span className="text-blue-500">Edits.</span>
           </div>
 

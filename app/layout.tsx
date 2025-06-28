@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Divyanshu Edits",
-  description: "Divyanshu Edits - A passionate video editor",
+  title: "Manju Edits",
+  description: "Manju Edits - A passionate video editor",
     generator: 'v0.dev'
 };
 
