@@ -510,7 +510,7 @@ export default function DarkPortfolio() {
                       <Instagram className="w-4 h-4 md:w-5 md:h-5" />
                     </Link>
                     <Link
-                      href="https://www.linkedin.com/in/manjunath-h-9197b6371"
+                      href="https://www.linkedin.com/in/manjunath012/"
                       className="p-2 md:p-3 bg-[#2a2a2a] text-gray-300 rounded-full hover:bg-blue-500 hover:text-white transition-all duration-300 hover:scale-110"
                     >
                       <Linkedin className="w-4 h-4 md:w-5 md:h-5" />
@@ -589,7 +589,7 @@ export default function DarkPortfolio() {
                 <Instagram className="w-6 h-6" />
               </Link>
               <Link
-                href="https://www.linkedin.com/in/manjunath-30bb69328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                href="https://www.linkedin.com/in/manjunath012/"
                 className="text-gray-400 hover:text-blue-500 transition-colors duration-300"
               >
                 <Linkedin className="w-6 h-6" />
